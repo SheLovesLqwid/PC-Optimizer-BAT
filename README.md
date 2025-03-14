@@ -115,6 +115,6 @@ This script is perfect for **gamers, power users, and anyone looking to enhance 
 
 ## 🔗 **Need Help? Join Our Community!**
 💬 **Discord Server:** [https://discord.gg/4W9a9ynbuP](https://discord.gg/4W9a9ynbuP)  
-👨‍💻 **Developers:** @ttvwetboi & @loxyvfx  
+👨‍💻 **Developers:** @ttvwetboi & @loxyvfx.
 
 🚀 **Enjoy faster performance and a cleaner PC!** 🚀
