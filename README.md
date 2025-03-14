@@ -1,10 +1,21 @@
-## 🖥️ **Advanced PC Optimizer - Multi-Tool**
+# 🖥️ **Advanced PC Optimizer - Multi-Tool**
 #### ⚡ **Developed by:** @ttvwetboi & @loxyvfx  
 #### 🌐 **Join our Discord Community:** [Click Here](https://discord.gg/4W9a9ynbuP)  
 
 ---
 
-### 📜 **About This Tool**
+## 🔥 **Future Plans: Desktop App Coming Soon!**  
+We are currently working on **a full-fledged desktop application** for Advanced PC Optimizer, featuring:  
+✅ **Custom UI & Modern Interface**  
+✅ **Tons of New Optimization Features**  
+✅ **Free & Premium Versions** with advanced tools  
+✅ **One-Click Boost & Deep System Tweaks**  
+
+Stay tuned for updates! **Join our Discord** to get early access and provide feedback. 🎉  
+
+---
+
+## 📜 **About This Tool**
 **Advanced PC Optimizer** is a **powerful all-in-one batch script** designed to **boost PC performance, clean up junk files, optimize network settings, and manage processes & tasks** in just a few clicks!  
 
 This script is perfect for **gamers, power users, and anyone looking to enhance their Windows experience** without installing third-party software.  
@@ -115,6 +126,6 @@ This script is perfect for **gamers, power users, and anyone looking to enhance 
 
 ## 🔗 **Need Help? Join Our Community!**
 💬 **Discord Server:** [https://discord.gg/4W9a9ynbuP](https://discord.gg/4W9a9ynbuP)  
-👨‍💻 **Developers:** @ttvwetboi & @loxyvfx.
+👨‍💻 **Developers:** @ttvwetboi & @loxyvfx.  
 
 🚀 **Enjoy faster performance and a cleaner PC!** 🚀
